@@ -7,3 +7,8 @@ h2{
 	color: purple;
 	font size:50 px;
 }
+h3{
+	color: blue;
+	font size:100 px;
+	font-style:italic;
+}
